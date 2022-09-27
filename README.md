@@ -1,3 +1,3 @@
 # retro-fit-test-android
 
-android app + api
+android app && api
