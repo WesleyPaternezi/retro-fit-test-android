@@ -2,4 +2,4 @@
 
 android app && api
 
-api -> npm isntall -> npm start
+api -> npm install -> npm start
